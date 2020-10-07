@@ -4,25 +4,9 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://HyeokSoonPark.github.io/javascript-basic.html</loc>
+        <loc>https://hyeoksoonpark.github.io/javascript-basic.html</loc>
         
-        <lastmod>2020-10-07T00:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>https://HyeokSoonPark.github.io/blog-basic.html</loc>
-        
-        <lastmod>2020-10-07T00:00:00+09:00</lastmod>
+        <lastmod>2020-10-07T00:00:00+00:00</lastmod>
         
 
         
@@ -36,9 +20,9 @@
     </url>
     
     <url>
-        <loc>https://HyeokSoonPark.github.io/blog-basic-copy.html</loc>
+        <loc>https://hyeoksoonpark.github.io/blog-basic.html</loc>
         
-        <lastmod>2020-10-07T00:00:00+09:00</lastmod>
+        <lastmod>2020-10-07T00:00:00+00:00</lastmod>
         
 
         
@@ -52,9 +36,25 @@
     </url>
     
     <url>
-        <loc>https://HyeokSoonPark.github.io/gettysburg-address.html</loc>
+        <loc>https://hyeoksoonpark.github.io/blog-basic-copy.html</loc>
         
-        <lastmod>1863-11-19T19:18:00+09:00</lastmod>
+        <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://hyeoksoonpark.github.io/gettysburg-address.html</loc>
+        
+        <lastmod>1863-11-19T10:18:00+00:00</lastmod>
         
 
         
